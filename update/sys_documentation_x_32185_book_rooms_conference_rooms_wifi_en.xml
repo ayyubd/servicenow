@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="wifi" label="Wifi" language="en" table="x_32185_book_rooms_conference_rooms">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>wifi</element>
+            <help/>
+            <hint/>
+            <label>Wifi</label>
+            <language>en</language>
+            <name>x_32185_book_rooms_conference_rooms</name>
+            <plural>Wifis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ayyubd</sys_created_by>
+            <sys_created_on>2016-10-16 19:54:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d10cc4cddb6222009aea55d0cf9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wifi</sys_name>
+            <sys_package display_value="Book Rooms" source="x_32185_book_rooms">65950d44db6662009aea55d0cf96197e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Book Rooms">65950d44db6662009aea55d0cf96197e</sys_scope>
+            <sys_update_name>sys_documentation_x_32185_book_rooms_conference_rooms_wifi_en</sys_update_name>
+            <sys_updated_by>ayyubd</sys_updated_by>
+            <sys_updated_on>2016-10-16 19:54:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
